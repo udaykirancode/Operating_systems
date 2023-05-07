@@ -20,3 +20,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.6_Banker_alg
 ##Exp.no.7:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.7_lru_palcement
 ![image](https://user-images.githubusercontent.com/113407411/236671198-aeb57614-c29f-48de-80ee-309247d55466.png)
+##Exp.no.8:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.8_fcfs
+![image](https://user-images.githubusercontent.com/113407411/236671798-0ba98d68-7501-4dfc-bc59-7d5d9de03012.png)
