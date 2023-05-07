@@ -14,6 +14,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.4_First_fit
 ##Exp.no.5:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.5_preemptive_SJF
 ![image](https://user-images.githubusercontent.com/113407411/236670528-de33a76c-edd3-4c3b-bc24-e6874606750e.png)
-
-
-
+##Exp.no.6:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.6_Banker_algorithm
+![image](https://user-images.githubusercontent.com/113407411/236670733-15be6dc4-9728-415a-9d52-9098e608c074.png)
