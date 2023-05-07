@@ -17,3 +17,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.5_preemptive
 ##Exp.no.6:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.6_Banker_algorithm
 ![image](https://user-images.githubusercontent.com/113407411/236670733-15be6dc4-9728-415a-9d52-9098e608c074.png)
+##Exp.no.7:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.7_lru_palcement
+![image](https://user-images.githubusercontent.com/113407411/236671198-aeb57614-c29f-48de-80ee-309247d55466.png)
