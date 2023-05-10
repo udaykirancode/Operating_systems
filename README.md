@@ -23,4 +23,10 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.7_lru_palcem
 ##Exp.no.8:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.8_fcfs
 ![image](https://user-images.githubusercontent.com/113407411/236672106-b29adf31-63b8-4310-a9a1-479ac634fc6d.png)
+##exp.no.10:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.10_need_matrix
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d9d86d42-85c2-47e5-b21d-b0e6669b03b1)
+##exp.no.15:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.15_fcfs%20_scheduling
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/685aee5d-5689-4e51-b41b-9c891e2b79c5)
 
