@@ -26,6 +26,9 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.8_fcfs
 ##exp.no.10:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.10_need_matrix
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d9d86d42-85c2-47e5-b21d-b0e6669b03b1)
+##Exp.no.12:
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/1b445b0f-c81a-4447-8f66-52fddeed6e67)
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.12_Best_Fit
 ##exp.no.15:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.15_fcfs%20_scheduling
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/685aee5d-5689-4e51-b41b-9c891e2b79c5)
