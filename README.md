@@ -27,18 +27,22 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.8_fcfs
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.10_need_matrix
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d9d86d42-85c2-47e5-b21d-b0e6669b03b1)
 ##Exp.no.12:
-![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/1b445b0f-c81a-4447-8f66-52fddeed6e67)
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.12_Best_Fit
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/1b445b0f-c81a-4447-8f66-52fddeed6e67)
 ##Exp.no.13:
-![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/045d225b-7d3a-4bd9-8642-7b35517c96db)
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.13_dircetory
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/045d225b-7d3a-4bd9-8642-7b35517c96db)
 ##Exp.no.14:
-![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/5ef04409-38e8-4b9d-8de0-28086f933ae0)
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.14_optimalpage
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/5ef04409-38e8-4b9d-8de0-28086f933ae0)
 ##exp.no.15:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.15_fcfs%20_scheduling
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/685aee5d-5689-4e51-b41b-9c891e2b79c5)
 ##exp.no.16:
-![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/ae333f79-8d26-4425-a6ec-7952c49287bb)
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.16_fcfscpu
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/ae333f79-8d26-4425-a6ec-7952c49287bb)
+##exp.no.17:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.17_roundRobin
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d964dcf1-8c58-45dd-8834-f10c9a35d1a2)
+
 
