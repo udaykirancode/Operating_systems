@@ -44,5 +44,8 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.16_fcfscpu
 ##exp.no.17:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.17_roundRobin
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d964dcf1-8c58-45dd-8834-f10c9a35d1a2)
+##exp.no.21:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.21_philospher
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/09c1d833-d710-4280-8081-b5eb6f633f0f)
 
 
