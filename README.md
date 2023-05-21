@@ -50,4 +50,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.21_philosphe
 ##exp.no.23:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.23_scan
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/09ebc6d9-9d02-437b-95fa-03bbe74b18a8)
-
+##exp.no.24:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.24_filesizze
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/235a58c0-c016-4577-b049-cc3b545fb602)
