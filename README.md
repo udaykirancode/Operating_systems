@@ -53,3 +53,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.23_scan
 ##exp.no.24:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.24_filesizze
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/235a58c0-c016-4577-b049-cc3b545fb602)
+##exp.no.26:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.26_priority
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/ed4d9fc2-29f0-433e-9bb0-e53213295fa2)
