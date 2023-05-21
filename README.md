@@ -47,5 +47,7 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.17_roundRobi
 ##exp.no.21:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.21_philospher
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/09c1d833-d710-4280-8081-b5eb6f633f0f)
-
+##exp.no.23:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.23_scan
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/09ebc6d9-9d02-437b-95fa-03bbe74b18a8)
 
