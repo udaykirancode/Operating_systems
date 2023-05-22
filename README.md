@@ -56,3 +56,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.24_filesizze
 ##exp.no.26:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.26_priority
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/ed4d9fc2-29f0-433e-9bb0-e53213295fa2)
+##exp.no.29:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.29_First_fit
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/8a842c7d-6713-4896-99ef-e00afab44bfb)
