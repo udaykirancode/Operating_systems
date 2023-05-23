@@ -59,3 +59,6 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.26_priority
 ##exp.no.29:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.29_First_fit
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/8a842c7d-6713-4896-99ef-e00afab44bfb)
+##exp.no.32:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.32_scan
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/b54d4bc4-309e-4002-a9a8-ae13e9f8c7bf)
