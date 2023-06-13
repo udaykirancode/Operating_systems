@@ -23,6 +23,9 @@ https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.7_lru_palcem
 ##Exp.no.8:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.8_fcfs
 ![image](https://user-images.githubusercontent.com/113407411/236672106-b29adf31-63b8-4310-a9a1-479ac634fc6d.png)
+##Exp.no.9:
+https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.9_FCFs
+![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/3a91dab9-8fd7-48c9-a153-011801005f33)
 ##exp.no.10:
 https://github.com/udaykirancode/Operating_systems/blob/main/exp.no.10_need_matrix
 ![image](https://github.com/udaykirancode/Operating_systems/assets/113407411/d9d86d42-85c2-47e5-b21d-b0e6669b03b1)
